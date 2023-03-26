@@ -26,37 +26,33 @@ We have also taken regular snapshots of the kanban board in trello to archive ou
 
 Within process documents we have also included the meeting notes, agenda and minutes. These will be found in the repository below.
 
-[./Documents/process-documents/meeting-notes/](./Documents/process-documents/meeting-notes/)
+[./Documents/process-documents/meeting-notes/](https://github.com/JoachimStanislaus/BleedGreen/tree/main/Documents/process-documents/meeting-notes)
 
 Within process documents we have also included the draft database design. These will be found in the repository below.
 
-[./Documents/process-documents/database-design/](./Documents/process-documents/database-design/)
+[./Documents/process-documents/database-design/](https://github.com/JoachimStanislaus/BleedGreen/tree/main/Documents/process-documents/database-design)
 
 
 ## TECHNICAL DOCUMENTS
 Our technical documents are primarily managed on the github system. The link to the project is below:
 
-github link: [https://github.com/sentoash/bleedgreenCode]
-
-We have also include the versioned source code for archiving.
-
-[./Documents/technical-documents/](./Documents/technical-documents/)
+github link: [https://github.com/joachimstanislaus/bleedgreen]
 
 Technical documents are broken down into front end and back end etc.
 
 ## PRODUCT DOCUMENTS
 Our product documents are primarily in the form of a product UI. Below is a link to our latest version.
 
-public link: []
+public link: [https://bgstep.azurewebsites.net/]
 
 The UI and design documents for the client have also been archived under the link below:
 
-[./Documents/product-documents/UI/](./Documents/product-documents/UI/)
+[./Documents/product-documents/UI/](https://github.com/JoachimStanislaus/BleedGreen/tree/main/Documents/product-documents/UI/)
 
 The requirements-analysis for the client have also been archived under the link below:
 
-[./Documents/product-documents/requirements-analysis/](./Documents/product-documents/requirements-analysis/)
+[./Documents/product-documents/requirements-analysis/](https://github.com/JoachimStanislaus/BleedGreen/tree/main/Documents/product-documents/requirements-analysis/)
 
 The designs for the client have also been archived under the link below:
 
-[./Documents/product-documents/designs/](./Documents/product-documents/designs/)
+[./Documents/product-documents/designs/](https://github.com/JoachimStanislaus/BleedGreen/tree/main/Documents/product-documents/designs/)
