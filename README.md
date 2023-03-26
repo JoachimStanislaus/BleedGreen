@@ -22,7 +22,7 @@ trello link: [https://trello.com/invite/b/ZokYLBU4/ATTIc1ee58692071f15906bf5bf68
 
 We have also taken regular snapshots of the kanban board in trello to archive our progress. These are held in the repository below.
 
-[./Tree/Documents/process-documents/kanban-snapshot/](./Tree/Documents/process-documents/kanban-snapshot/)
+[./Tree/Documents/process-documents/kanban-snapshot/](https://github.com/JoachimStanislaus/BleedGreen/tree/main/Documents/process-documents/kanban-snapshots)
 
 Within process documents we have also included the meeting notes, agenda and minutes. These will be found in the repository below.
 
